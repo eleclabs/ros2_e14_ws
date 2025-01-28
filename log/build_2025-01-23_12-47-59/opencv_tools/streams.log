@@ -1,0 +1,22 @@
+[1.010s] Invoking command in '/home/eleclabs/ros2_ws/src/opencv_tools': PYTHONPATH=/home/eleclabs/ros2_ws/build/opencv_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/ros2_ws/install/opencv_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/opencv_tools build --build-base /home/eleclabs/ros2_ws/build/opencv_tools/build install --record /home/eleclabs/ros2_ws/build/opencv_tools/install.log --single-version-externally-managed install_data
+[1.374s] running egg_info
+[1.374s] writing ../../build/opencv_tools/opencv_tools.egg-info/PKG-INFO
+[1.374s] writing dependency_links to ../../build/opencv_tools/opencv_tools.egg-info/dependency_links.txt
+[1.374s] writing entry points to ../../build/opencv_tools/opencv_tools.egg-info/entry_points.txt
+[1.374s] writing requirements to ../../build/opencv_tools/opencv_tools.egg-info/requires.txt
+[1.374s] writing top-level names to ../../build/opencv_tools/opencv_tools.egg-info/top_level.txt
+[1.374s] reading manifest file '../../build/opencv_tools/opencv_tools.egg-info/SOURCES.txt'
+[1.374s] writing manifest file '../../build/opencv_tools/opencv_tools.egg-info/SOURCES.txt'
+[1.374s] running build
+[1.374s] running build_py
+[1.374s] running install
+[1.374s] running install_lib
+[1.374s] running install_data
+[1.374s] running install_egg_info
+[1.374s] removing '/home/eleclabs/ros2_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools-0.0.0-py3.10.egg-info' (and everything under it)
+[1.374s] Copying ../../build/opencv_tools/opencv_tools.egg-info to /home/eleclabs/ros2_ws/install/opencv_tools/lib/python3.10/site-packages/opencv_tools-0.0.0-py3.10.egg-info
+[1.376s] running install_scripts
+[1.396s] Installing img_pub_node script to /home/eleclabs/ros2_ws/install/opencv_tools/lib/opencv_tools
+[1.397s] Installing img_sub_node script to /home/eleclabs/ros2_ws/install/opencv_tools/lib/opencv_tools
+[1.399s] writing list of installed files to '/home/eleclabs/ros2_ws/build/opencv_tools/install.log'
+[1.496s] Invoked command in '/home/eleclabs/ros2_ws/src/opencv_tools' returned '0': PYTHONPATH=/home/eleclabs/ros2_ws/build/opencv_tools/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/ros2_ws/install/opencv_tools/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/opencv_tools build --build-base /home/eleclabs/ros2_ws/build/opencv_tools/build install --record /home/eleclabs/ros2_ws/build/opencv_tools/install.log --single-version-externally-managed install_data

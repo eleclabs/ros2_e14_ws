@@ -1,0 +1,4 @@
+[console_scripts]
+camera_publisher = usb_cam_example.camera_publisher:main
+camera_subscriber = usb_cam_example.camera_subscriber:main
+

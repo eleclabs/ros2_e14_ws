@@ -1,0 +1,3 @@
+[console_scripts]
+subscriber_node = ros2_opencv.subscriberImage:main
+

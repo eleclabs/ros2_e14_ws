@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/usb_cam_realtime/usb_cam_realtime.egg-info
+writing ../../build/usb_cam_realtime/usb_cam_realtime.egg-info/PKG-INFO
+writing dependency_links to ../../build/usb_cam_realtime/usb_cam_realtime.egg-info/dependency_links.txt
+writing entry points to ../../build/usb_cam_realtime/usb_cam_realtime.egg-info/entry_points.txt
+writing requirements to ../../build/usb_cam_realtime/usb_cam_realtime.egg-info/requires.txt
+writing top-level names to ../../build/usb_cam_realtime/usb_cam_realtime.egg-info/top_level.txt
+writing manifest file '../../build/usb_cam_realtime/usb_cam_realtime.egg-info/SOURCES.txt'
+reading manifest file '../../build/usb_cam_realtime/usb_cam_realtime.egg-info/SOURCES.txt'
+writing manifest file '../../build/usb_cam_realtime/usb_cam_realtime.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/eleclabs/ros2_ws/build/usb_cam_realtime/build
+creating /home/eleclabs/ros2_ws/build/usb_cam_realtime/build/lib
+creating /home/eleclabs/ros2_ws/build/usb_cam_realtime/build/lib/usb_cam_realtime
+copying usb_cam_realtime/camera_publisher.py -> /home/eleclabs/ros2_ws/build/usb_cam_realtime/build/lib/usb_cam_realtime
+copying usb_cam_realtime/__init__.py -> /home/eleclabs/ros2_ws/build/usb_cam_realtime/build/lib/usb_cam_realtime
+copying usb_cam_realtime/camera_subscriber.py -> /home/eleclabs/ros2_ws/build/usb_cam_realtime/build/lib/usb_cam_realtime
+running install
+running install_lib
+creating /home/eleclabs/ros2_ws/install/usb_cam_realtime/lib/python3.10/site-packages/usb_cam_realtime
+copying /home/eleclabs/ros2_ws/build/usb_cam_realtime/build/lib/usb_cam_realtime/camera_publisher.py -> /home/eleclabs/ros2_ws/install/usb_cam_realtime/lib/python3.10/site-packages/usb_cam_realtime
+copying /home/eleclabs/ros2_ws/build/usb_cam_realtime/build/lib/usb_cam_realtime/__init__.py -> /home/eleclabs/ros2_ws/install/usb_cam_realtime/lib/python3.10/site-packages/usb_cam_realtime
+copying /home/eleclabs/ros2_ws/build/usb_cam_realtime/build/lib/usb_cam_realtime/camera_subscriber.py -> /home/eleclabs/ros2_ws/install/usb_cam_realtime/lib/python3.10/site-packages/usb_cam_realtime
+byte-compiling /home/eleclabs/ros2_ws/install/usb_cam_realtime/lib/python3.10/site-packages/usb_cam_realtime/camera_publisher.py to camera_publisher.cpython-310.pyc
+byte-compiling /home/eleclabs/ros2_ws/install/usb_cam_realtime/lib/python3.10/site-packages/usb_cam_realtime/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/eleclabs/ros2_ws/install/usb_cam_realtime/lib/python3.10/site-packages/usb_cam_realtime/camera_subscriber.py to camera_subscriber.cpython-310.pyc
+running install_data
+creating /home/eleclabs/ros2_ws/install/usb_cam_realtime/share/ament_index
+creating /home/eleclabs/ros2_ws/install/usb_cam_realtime/share/ament_index/resource_index
+creating /home/eleclabs/ros2_ws/install/usb_cam_realtime/share/ament_index/resource_index/packages
+copying resource/usb_cam_realtime -> /home/eleclabs/ros2_ws/install/usb_cam_realtime/share/ament_index/resource_index/packages
+copying package.xml -> /home/eleclabs/ros2_ws/install/usb_cam_realtime/share/usb_cam_realtime
+running install_egg_info
+Copying ../../build/usb_cam_realtime/usb_cam_realtime.egg-info to /home/eleclabs/ros2_ws/install/usb_cam_realtime/lib/python3.10/site-packages/usb_cam_realtime-0.0.0-py3.10.egg-info
+running install_scripts
+Installing camera_publisher script to /home/eleclabs/ros2_ws/install/usb_cam_realtime/lib/usb_cam_realtime
+Installing camera_subscriber script to /home/eleclabs/ros2_ws/install/usb_cam_realtime/lib/usb_cam_realtime
+writing list of installed files to '/home/eleclabs/ros2_ws/build/usb_cam_realtime/install.log'

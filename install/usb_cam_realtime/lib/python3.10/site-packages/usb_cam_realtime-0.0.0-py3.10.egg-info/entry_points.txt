@@ -1,0 +1,4 @@
+[console_scripts]
+camera_publisher = usb_cam_realtime.camera_publisher:main
+camera_subscriber = usb_cam_realtime.camera_subscriber:main
+

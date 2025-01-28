@@ -1,0 +1,3 @@
+[console_scripts]
+img_sub_node = opencv_tools.opencv_sub:main
+
