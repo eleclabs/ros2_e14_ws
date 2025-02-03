@@ -1,0 +1,11 @@
+/home/eleclabs/ros2_ws/build/webcam_stream/CMakeFiles/uninstall.dir
+/home/eleclabs/ros2_ws/build/webcam_stream/CMakeFiles/webcam_stream_uninstall.dir
+/home/eleclabs/ros2_ws/build/webcam_stream/CMakeFiles/webcam_publisher.dir
+/home/eleclabs/ros2_ws/build/webcam_stream/CMakeFiles/webcam_subscriber.dir
+/home/eleclabs/ros2_ws/build/webcam_stream/CMakeFiles/test.dir
+/home/eleclabs/ros2_ws/build/webcam_stream/CMakeFiles/edit_cache.dir
+/home/eleclabs/ros2_ws/build/webcam_stream/CMakeFiles/rebuild_cache.dir
+/home/eleclabs/ros2_ws/build/webcam_stream/CMakeFiles/list_install_components.dir
+/home/eleclabs/ros2_ws/build/webcam_stream/CMakeFiles/install.dir
+/home/eleclabs/ros2_ws/build/webcam_stream/CMakeFiles/install/local.dir
+/home/eleclabs/ros2_ws/build/webcam_stream/CMakeFiles/install/strip.dir

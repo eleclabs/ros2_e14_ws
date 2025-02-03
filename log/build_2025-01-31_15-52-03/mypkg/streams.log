@@ -1,0 +1,21 @@
+[1.350s] Invoking command in '/home/eleclabs/ros2_ws/build/mypkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --build /home/eleclabs/ros2_ws/build/mypkg -- -j4 -l4
+[1.774s] Invoked command in '/home/eleclabs/ros2_ws/build/mypkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --build /home/eleclabs/ros2_ws/build/mypkg -- -j4 -l4
+[1.832s] Invoking command in '/home/eleclabs/ros2_ws/build/mypkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --install /home/eleclabs/ros2_ws/build/mypkg
+[1.909s] -- Install configuration: ""
+[1.982s] -- Execute custom install script
+[1.983s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/ament_index/resource_index/package_run_dependencies/mypkg
+[1.983s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/ament_index/resource_index/parent_prefix_path/mypkg
+[1.983s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/environment/ament_prefix_path.sh
+[1.997s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/environment/ament_prefix_path.dsv
+[2.012s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/environment/path.sh
+[2.049s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/environment/path.dsv
+[2.194s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/local_setup.bash
+[2.269s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/local_setup.sh
+[2.269s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/local_setup.zsh
+[2.269s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/local_setup.dsv
+[2.279s] -- Symlinking: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/package.dsv
+[2.304s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/ament_index/resource_index/packages/mypkg
+[2.304s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/cmake/mypkgConfig.cmake
+[2.305s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/cmake/mypkgConfig-version.cmake
+[2.314s] -- Up-to-date symlink: /home/eleclabs/ros2_ws/install/mypkg/share/mypkg/package.xml
+[2.683s] Invoked command in '/home/eleclabs/ros2_ws/build/mypkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --install /home/eleclabs/ros2_ws/build/mypkg

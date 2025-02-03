@@ -1,0 +1,4 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/webcam_subscriber.dir/src/webcam_subscriber.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/webcam_publisher.dir/src/webcam_publisher.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable webcam_publisher[0m
+[ 75%] Built target webcam_publisher

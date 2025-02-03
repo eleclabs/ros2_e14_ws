@@ -1,0 +1,45 @@
+[0.978s] Invoking command in '/home/eleclabs/ros2_ws/build/v4l2_camera': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --build /home/eleclabs/ros2_ws/build/v4l2_camera -- -j4 -l4
+[1.281s] [ 50%] Built target v4l2_camera
+[1.576s] [ 75%] Built target v4l2_camera_compose_test
+[1.609s] [100%] Built target v4l2_camera_node
+[1.701s] Invoked command in '/home/eleclabs/ros2_ws/build/v4l2_camera' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --build /home/eleclabs/ros2_ws/build/v4l2_camera -- -j4 -l4
+[1.724s] Invoking command in '/home/eleclabs/ros2_ws/build/v4l2_camera': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --install /home/eleclabs/ros2_ws/build/v4l2_camera
+[1.800s] -- Install configuration: ""
+[1.802s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/include
+[1.803s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/include/v4l2_camera
+[1.803s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/include/v4l2_camera/v4l2_camera_device.hpp
+[1.807s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/include/v4l2_camera/control.hpp
+[1.807s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/include/v4l2_camera/fourcc.hpp
+[1.807s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/include/v4l2_camera/parameters.hpp
+[1.807s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/include/v4l2_camera/v4l2_camera.hpp
+[1.807s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/include/v4l2_camera/pixel_format.hpp
+[1.807s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/include/v4l2_camera/image_format.hpp
+[1.807s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/include/v4l2_camera/visibility_control.h
+[1.807s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/lib/libv4l2_camera.so
+[1.819s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/lib/v4l2_camera/v4l2_camera_node
+[1.820s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/lib/v4l2_camera/v4l2_camera_compose_test
+[1.820s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/environment/library_path.sh
+[1.821s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/environment/library_path.dsv
+[1.821s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/ament_index/resource_index/package_run_dependencies/v4l2_camera
+[1.821s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/ament_index/resource_index/parent_prefix_path/v4l2_camera
+[1.821s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/environment/ament_prefix_path.sh
+[1.821s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/environment/ament_prefix_path.dsv
+[1.821s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/environment/path.sh
+[1.821s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/environment/path.dsv
+[1.821s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/local_setup.bash
+[1.821s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/local_setup.sh
+[1.822s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/local_setup.zsh
+[1.822s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/local_setup.dsv
+[1.822s] -- Installing: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/package.dsv
+[1.822s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/ament_index/resource_index/packages/v4l2_camera
+[1.822s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/ament_index/resource_index/rclcpp_components/v4l2_camera
+[1.822s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/cmake/export_v4l2_cameraExport.cmake
+[1.822s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/cmake/export_v4l2_cameraExport-noconfig.cmake
+[1.823s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.823s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/cmake/ament_cmake_export_targets-extras.cmake
+[1.823s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/cmake/ament_cmake_export_libraries-extras.cmake
+[1.824s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.824s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/cmake/v4l2_cameraConfig.cmake
+[1.825s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/cmake/v4l2_cameraConfig-version.cmake
+[1.825s] -- Up-to-date: /home/eleclabs/ros2_ws/install/v4l2_camera/share/v4l2_camera/package.xml
+[1.853s] Invoked command in '/home/eleclabs/ros2_ws/build/v4l2_camera' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --install /home/eleclabs/ros2_ws/build/v4l2_camera

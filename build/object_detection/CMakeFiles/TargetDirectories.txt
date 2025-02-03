@@ -1,0 +1,11 @@
+/home/eleclabs/ros2_ws/build/object_detection/CMakeFiles/uninstall.dir
+/home/eleclabs/ros2_ws/build/object_detection/CMakeFiles/object_detection_uninstall.dir
+/home/eleclabs/ros2_ws/build/object_detection/CMakeFiles/object_detection_publisher.dir
+/home/eleclabs/ros2_ws/build/object_detection/CMakeFiles/object_detection_subscriber.dir
+/home/eleclabs/ros2_ws/build/object_detection/CMakeFiles/test.dir
+/home/eleclabs/ros2_ws/build/object_detection/CMakeFiles/edit_cache.dir
+/home/eleclabs/ros2_ws/build/object_detection/CMakeFiles/rebuild_cache.dir
+/home/eleclabs/ros2_ws/build/object_detection/CMakeFiles/list_install_components.dir
+/home/eleclabs/ros2_ws/build/object_detection/CMakeFiles/install.dir
+/home/eleclabs/ros2_ws/build/object_detection/CMakeFiles/install/local.dir
+/home/eleclabs/ros2_ws/build/object_detection/CMakeFiles/install/strip.dir

@@ -1,0 +1,33 @@
+[4.339s] Invoking command in '/home/eleclabs/ros2_ws/src/object_detection': PYTHONPATH=/home/eleclabs/ros2_ws/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/ros2_ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/eleclabs/ros2_ws/build/object_detection/build install --record /home/eleclabs/ros2_ws/build/object_detection/install.log --single-version-externally-managed install_data
+[5.020s] running egg_info
+[5.021s] creating ../../build/object_detection/object_detection.egg-info
+[5.022s] writing ../../build/object_detection/object_detection.egg-info/PKG-INFO
+[5.026s] writing dependency_links to ../../build/object_detection/object_detection.egg-info/dependency_links.txt
+[5.026s] writing entry points to ../../build/object_detection/object_detection.egg-info/entry_points.txt
+[5.026s] writing requirements to ../../build/object_detection/object_detection.egg-info/requires.txt
+[5.026s] writing top-level names to ../../build/object_detection/object_detection.egg-info/top_level.txt
+[5.027s] writing manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[5.027s] reading manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[5.028s] writing manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[5.029s] running build
+[5.029s] running build_py
+[5.029s] creating /home/eleclabs/ros2_ws/build/object_detection/build
+[5.030s] creating /home/eleclabs/ros2_ws/build/object_detection/build/lib
+[5.030s] creating /home/eleclabs/ros2_ws/build/object_detection/build/lib/object_detection
+[5.030s] copying object_detection/__init__.py -> /home/eleclabs/ros2_ws/build/object_detection/build/lib/object_detection
+[5.034s] running install
+[5.034s] running install_lib
+[5.040s] creating /home/eleclabs/ros2_ws/install/object_detection/lib/python3.10/site-packages/object_detection
+[5.040s] copying /home/eleclabs/ros2_ws/build/object_detection/build/lib/object_detection/__init__.py -> /home/eleclabs/ros2_ws/install/object_detection/lib/python3.10/site-packages/object_detection
+[5.041s] byte-compiling /home/eleclabs/ros2_ws/install/object_detection/lib/python3.10/site-packages/object_detection/__init__.py to __init__.cpython-310.pyc
+[5.042s] running install_data
+[5.042s] creating /home/eleclabs/ros2_ws/install/object_detection/share/ament_index
+[5.043s] creating /home/eleclabs/ros2_ws/install/object_detection/share/ament_index/resource_index
+[5.043s] creating /home/eleclabs/ros2_ws/install/object_detection/share/ament_index/resource_index/packages
+[5.045s] copying resource/object_detection -> /home/eleclabs/ros2_ws/install/object_detection/share/ament_index/resource_index/packages
+[5.072s] copying package.xml -> /home/eleclabs/ros2_ws/install/object_detection/share/object_detection
+[5.072s] running install_egg_info
+[5.093s] Copying ../../build/object_detection/object_detection.egg-info to /home/eleclabs/ros2_ws/install/object_detection/lib/python3.10/site-packages/object_detection-0.0.0-py3.10.egg-info
+[5.095s] running install_scripts
+[5.201s] writing list of installed files to '/home/eleclabs/ros2_ws/build/object_detection/install.log'
+[5.474s] Invoked command in '/home/eleclabs/ros2_ws/src/object_detection' returned '0': PYTHONPATH=/home/eleclabs/ros2_ws/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/ros2_ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/eleclabs/ros2_ws/build/object_detection/build install --record /home/eleclabs/ros2_ws/build/object_detection/install.log --single-version-externally-managed install_data

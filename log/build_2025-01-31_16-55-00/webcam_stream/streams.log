@@ -1,0 +1,29 @@
+[0.114s] Invoking command in '/home/eleclabs/ros2_ws/build/webcam_stream': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --build /home/eleclabs/ros2_ws/build/webcam_stream -- -j4 -l4
+[0.378s] [35m[1mConsolidate compiler generated dependencies of target webcam_publisher[0m
+[0.414s] [ 25%] [32mBuilding CXX object CMakeFiles/webcam_subscriber.dir/src/webcam_subscriber.cpp.o[0m
+[0.467s] [ 75%] Built target webcam_publisher
+[32.787s] [100%] [32m[1mLinking CXX executable webcam_subscriber[0m
+[35.112s] [100%] Built target webcam_subscriber
+[35.195s] Invoked command in '/home/eleclabs/ros2_ws/build/webcam_stream' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --build /home/eleclabs/ros2_ws/build/webcam_stream -- -j4 -l4
+[35.205s] Invoking command in '/home/eleclabs/ros2_ws/build/webcam_stream': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --install /home/eleclabs/ros2_ws/build/webcam_stream
+[35.235s] -- Install configuration: ""
+[35.236s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_publisher
+[35.240s] -- Set runtime path of "/home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_publisher" to ""
+[35.240s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_subscriber
+[35.281s] -- Set runtime path of "/home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_subscriber" to ""
+[35.282s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/package_run_dependencies/webcam_stream
+[35.292s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/parent_prefix_path/webcam_stream
+[35.296s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/ament_prefix_path.sh
+[35.297s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/ament_prefix_path.dsv
+[35.301s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/path.sh
+[35.304s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/path.dsv
+[35.307s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.bash
+[35.311s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.sh
+[35.315s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.zsh
+[35.318s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.dsv
+[35.321s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/package.dsv
+[35.323s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/packages/webcam_stream
+[35.324s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/cmake/webcam_streamConfig.cmake
+[35.326s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/cmake/webcam_streamConfig-version.cmake
+[35.329s] -- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/package.xml
+[35.337s] Invoked command in '/home/eleclabs/ros2_ws/build/webcam_stream' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --install /home/eleclabs/ros2_ws/build/webcam_stream

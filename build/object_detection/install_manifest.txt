@@ -1,0 +1,17 @@
+/home/eleclabs/ros2_ws/install/object_detection/lib/object_detection/object_detection_publisher
+/home/eleclabs/ros2_ws/install/object_detection/lib/object_detection/object_detection_subscriber
+/home/eleclabs/ros2_ws/install/object_detection/share/ament_index/resource_index/package_run_dependencies/object_detection
+/home/eleclabs/ros2_ws/install/object_detection/share/ament_index/resource_index/parent_prefix_path/object_detection
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/environment/ament_prefix_path.sh
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/environment/ament_prefix_path.dsv
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/environment/path.sh
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/environment/path.dsv
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/local_setup.bash
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/local_setup.sh
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/local_setup.zsh
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/local_setup.dsv
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/package.dsv
+/home/eleclabs/ros2_ws/install/object_detection/share/ament_index/resource_index/packages/object_detection
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/cmake/object_detectionConfig.cmake
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/cmake/object_detectionConfig-version.cmake
+/home/eleclabs/ros2_ws/install/object_detection/share/object_detection/package.xml

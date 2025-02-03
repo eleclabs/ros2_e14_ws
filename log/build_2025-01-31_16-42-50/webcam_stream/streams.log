@@ -1,0 +1,18 @@
+[0.122s] Invoking command in '/home/eleclabs/ros2_ws/build/webcam_stream': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --build /home/eleclabs/ros2_ws/build/webcam_stream -- -j4 -l4
+[0.488s] [ 25%] [32mBuilding CXX object CMakeFiles/webcam_subscriber.dir/src/webcam_subscriber.cpp.o[0m
+[0.552s] [ 50%] [32mBuilding CXX object CMakeFiles/webcam_publisher.dir/src/webcam_publisher.cpp.o[0m
+[1.466s] [01m[K/home/eleclabs/ros2_ws/src/webcam_stream/src/webcam_subscriber.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kimage_transport/image_transport.hpp: No such file or directory
+[1.466s]     2 | #include [01;31m[K<image_transport/image_transport.hpp>[m[K
+[1.467s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.467s] compilation terminated.
+[1.488s] gmake[2]: *** [CMakeFiles/webcam_subscriber.dir/build.make:76: CMakeFiles/webcam_subscriber.dir/src/webcam_subscriber.cpp.o] Error 1
+[1.489s] gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/webcam_subscriber.dir/all] Error 2
+[1.490s] gmake[1]: *** Waiting for unfinished jobs....
+[1.527s] [01m[K/home/eleclabs/ros2_ws/src/webcam_stream/src/webcam_publisher.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kimage_transport/image_transport.hpp: No such file or directory
+[1.527s]     2 | #include [01;31m[K<image_transport/image_transport.hpp>[m[K
+[1.528s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.528s] compilation terminated.
+[1.565s] gmake[2]: *** [CMakeFiles/webcam_publisher.dir/build.make:76: CMakeFiles/webcam_publisher.dir/src/webcam_publisher.cpp.o] Error 1
+[1.577s] gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/webcam_publisher.dir/all] Error 2
+[1.652s] gmake: *** [Makefile:146: all] Error 2
+[1.688s] Invoked command in '/home/eleclabs/ros2_ws/build/webcam_stream' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/eleclabs/ros2_ws/install/usb_cam_realtime:/home/eleclabs/ros2_ws/install/usb_cam_example:/home/eleclabs/ros2_ws/install/ros2_opencv:/home/eleclabs/ros2_ws/install/opencv_tools:/home/eleclabs/ros2_ws/install/object_detection:/home/eleclabs/ros2_ws/install/image_viewer:/opt/ros/humble /usr/bin/cmake --build /home/eleclabs/ros2_ws/build/webcam_stream -- -j4 -l4

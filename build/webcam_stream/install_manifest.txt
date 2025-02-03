@@ -1,0 +1,17 @@
+/home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_publisher
+/home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_subscriber
+/home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/package_run_dependencies/webcam_stream
+/home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/parent_prefix_path/webcam_stream
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/ament_prefix_path.sh
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/ament_prefix_path.dsv
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/path.sh
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/path.dsv
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.bash
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.sh
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.zsh
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.dsv
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/package.dsv
+/home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/packages/webcam_stream
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/cmake/webcam_streamConfig.cmake
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/cmake/webcam_streamConfig-version.cmake
+/home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/package.xml

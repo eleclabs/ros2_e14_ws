@@ -1,0 +1,20 @@
+[ 50%] Built target webcam_subscriber
+[100%] Built target webcam_publisher
+-- Install configuration: ""
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_publisher
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_subscriber
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/package_run_dependencies/webcam_stream
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/parent_prefix_path/webcam_stream
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/ament_prefix_path.sh
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/path.sh
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/path.dsv
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.bash
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.sh
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.zsh
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.dsv
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/package.dsv
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/packages/webcam_stream
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/cmake/webcam_streamConfig.cmake
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/cmake/webcam_streamConfig-version.cmake
+-- Up-to-date: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/package.xml

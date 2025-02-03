@@ -1,0 +1,22 @@
+[2.858s] Invoking command in '/home/eleclabs/ros2_ws/src/usb_cam_example': PYTHONPATH=/home/eleclabs/ros2_ws/build/usb_cam_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/ros2_ws/install/usb_cam_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/usb_cam_example build --build-base /home/eleclabs/ros2_ws/build/usb_cam_example/build install --record /home/eleclabs/ros2_ws/build/usb_cam_example/install.log --single-version-externally-managed install_data
+[3.596s] running egg_info
+[3.601s] writing ../../build/usb_cam_example/usb_cam_example.egg-info/PKG-INFO
+[3.602s] writing dependency_links to ../../build/usb_cam_example/usb_cam_example.egg-info/dependency_links.txt
+[3.602s] writing entry points to ../../build/usb_cam_example/usb_cam_example.egg-info/entry_points.txt
+[3.602s] writing requirements to ../../build/usb_cam_example/usb_cam_example.egg-info/requires.txt
+[3.602s] writing top-level names to ../../build/usb_cam_example/usb_cam_example.egg-info/top_level.txt
+[3.613s] reading manifest file '../../build/usb_cam_example/usb_cam_example.egg-info/SOURCES.txt'
+[3.616s] writing manifest file '../../build/usb_cam_example/usb_cam_example.egg-info/SOURCES.txt'
+[3.617s] running build
+[3.617s] running build_py
+[3.619s] running install
+[3.619s] running install_lib
+[3.622s] running install_data
+[3.622s] running install_egg_info
+[3.631s] removing '/home/eleclabs/ros2_ws/install/usb_cam_example/lib/python3.10/site-packages/usb_cam_example-0.0.0-py3.10.egg-info' (and everything under it)
+[3.632s] Copying ../../build/usb_cam_example/usb_cam_example.egg-info to /home/eleclabs/ros2_ws/install/usb_cam_example/lib/python3.10/site-packages/usb_cam_example-0.0.0-py3.10.egg-info
+[3.644s] running install_scripts
+[3.720s] Installing camera_publisher script to /home/eleclabs/ros2_ws/install/usb_cam_example/lib/usb_cam_example
+[3.720s] Installing camera_subscriber script to /home/eleclabs/ros2_ws/install/usb_cam_example/lib/usb_cam_example
+[3.720s] writing list of installed files to '/home/eleclabs/ros2_ws/build/usb_cam_example/install.log'
+[3.812s] Invoked command in '/home/eleclabs/ros2_ws/src/usb_cam_example' returned '0': PYTHONPATH=/home/eleclabs/ros2_ws/build/usb_cam_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/ros2_ws/install/usb_cam_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/usb_cam_example build --build-base /home/eleclabs/ros2_ws/build/usb_cam_example/build install --record /home/eleclabs/ros2_ws/build/usb_cam_example/install.log --single-version-externally-managed install_data

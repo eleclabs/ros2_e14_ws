@@ -1,0 +1,21 @@
+[3.170s] Invoking command in '/home/eleclabs/ros2_ws/src/object_detection': PYTHONPATH=/home/eleclabs/ros2_ws/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/ros2_ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/eleclabs/ros2_ws/build/object_detection/build install --record /home/eleclabs/ros2_ws/build/object_detection/install.log --single-version-externally-managed install_data
+[3.856s] running egg_info
+[3.868s] writing ../../build/object_detection/object_detection.egg-info/PKG-INFO
+[3.875s] writing dependency_links to ../../build/object_detection/object_detection.egg-info/dependency_links.txt
+[3.894s] writing entry points to ../../build/object_detection/object_detection.egg-info/entry_points.txt
+[3.908s] writing requirements to ../../build/object_detection/object_detection.egg-info/requires.txt
+[3.908s] writing top-level names to ../../build/object_detection/object_detection.egg-info/top_level.txt
+[3.912s] reading manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[3.922s] writing manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[3.923s] running build
+[3.923s] running build_py
+[3.926s] running install
+[3.929s] running install_lib
+[3.943s] running install_data
+[3.945s] running install_egg_info
+[3.952s] removing '/home/eleclabs/ros2_ws/install/object_detection/lib/python3.10/site-packages/object_detection-0.0.0-py3.10.egg-info' (and everything under it)
+[3.973s] Copying ../../build/object_detection/object_detection.egg-info to /home/eleclabs/ros2_ws/install/object_detection/lib/python3.10/site-packages/object_detection-0.0.0-py3.10.egg-info
+[3.986s] running install_scripts
+[4.106s] Installing object_detection_node script to /home/eleclabs/ros2_ws/install/object_detection/lib/object_detection
+[4.110s] writing list of installed files to '/home/eleclabs/ros2_ws/build/object_detection/install.log'
+[4.258s] Invoked command in '/home/eleclabs/ros2_ws/src/object_detection' returned '0': PYTHONPATH=/home/eleclabs/ros2_ws/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/ros2_ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/eleclabs/ros2_ws/build/object_detection/build install --record /home/eleclabs/ros2_ws/build/object_detection/install.log --single-version-externally-managed install_data

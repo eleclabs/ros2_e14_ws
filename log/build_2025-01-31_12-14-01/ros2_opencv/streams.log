@@ -1,0 +1,21 @@
+[3.398s] Invoking command in '/home/eleclabs/ros2_ws/src/ros2_opencv': PYTHONPATH=/home/eleclabs/ros2_ws/build/ros2_opencv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_opencv build --build-base /home/eleclabs/ros2_ws/build/ros2_opencv/build install --record /home/eleclabs/ros2_ws/build/ros2_opencv/install.log --single-version-externally-managed install_data
+[4.391s] running egg_info
+[4.397s] writing ../../build/ros2_opencv/ros2_opencv.egg-info/PKG-INFO
+[4.398s] writing dependency_links to ../../build/ros2_opencv/ros2_opencv.egg-info/dependency_links.txt
+[4.402s] writing entry points to ../../build/ros2_opencv/ros2_opencv.egg-info/entry_points.txt
+[4.404s] writing requirements to ../../build/ros2_opencv/ros2_opencv.egg-info/requires.txt
+[4.405s] writing top-level names to ../../build/ros2_opencv/ros2_opencv.egg-info/top_level.txt
+[4.411s] reading manifest file '../../build/ros2_opencv/ros2_opencv.egg-info/SOURCES.txt'
+[4.435s] writing manifest file '../../build/ros2_opencv/ros2_opencv.egg-info/SOURCES.txt'
+[4.442s] running build
+[4.442s] running build_py
+[4.442s] running install
+[4.446s] running install_lib
+[4.465s] running install_data
+[4.466s] running install_egg_info
+[4.472s] removing '/home/eleclabs/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages/ros2_opencv-0.0.0-py3.10.egg-info' (and everything under it)
+[4.516s] Copying ../../build/ros2_opencv/ros2_opencv.egg-info to /home/eleclabs/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages/ros2_opencv-0.0.0-py3.10.egg-info
+[4.562s] running install_scripts
+[4.562s] Installing subscriber_node script to /home/eleclabs/ros2_ws/install/ros2_opencv/lib/ros2_opencv
+[4.592s] writing list of installed files to '/home/eleclabs/ros2_ws/build/ros2_opencv/install.log'
+[4.856s] Invoked command in '/home/eleclabs/ros2_ws/src/ros2_opencv' returned '0': PYTHONPATH=/home/eleclabs/ros2_ws/build/ros2_opencv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eleclabs/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_opencv build --build-base /home/eleclabs/ros2_ws/build/ros2_opencv/build install --record /home/eleclabs/ros2_ws/build/ros2_opencv/install.log --single-version-externally-managed install_data

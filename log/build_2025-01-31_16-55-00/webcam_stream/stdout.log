@@ -1,0 +1,25 @@
+[35m[1mConsolidate compiler generated dependencies of target webcam_publisher[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/webcam_subscriber.dir/src/webcam_subscriber.cpp.o[0m
+[ 75%] Built target webcam_publisher
+[100%] [32m[1mLinking CXX executable webcam_subscriber[0m
+[100%] Built target webcam_subscriber
+-- Install configuration: ""
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_publisher
+-- Set runtime path of "/home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_publisher" to ""
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_subscriber
+-- Set runtime path of "/home/eleclabs/ros2_ws/install/webcam_stream/lib/webcam_stream/webcam_subscriber" to ""
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/package_run_dependencies/webcam_stream
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/parent_prefix_path/webcam_stream
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/ament_prefix_path.sh
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/ament_prefix_path.dsv
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/path.sh
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/environment/path.dsv
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.bash
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.sh
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.zsh
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/local_setup.dsv
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/package.dsv
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/ament_index/resource_index/packages/webcam_stream
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/cmake/webcam_streamConfig.cmake
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/cmake/webcam_streamConfig-version.cmake
+-- Installing: /home/eleclabs/ros2_ws/install/webcam_stream/share/webcam_stream/package.xml

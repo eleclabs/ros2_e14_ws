@@ -1,0 +1,8 @@
+[01m[K/home/eleclabs/ros2_ws/src/webcam_stream/src/webcam_subscriber.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kimage_transport/image_transport.hpp: No such file or directory
+    2 | #include [01;31m[K<image_transport/image_transport.hpp>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/webcam_subscriber.dir/build.make:76: CMakeFiles/webcam_subscriber.dir/src/webcam_subscriber.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/webcam_subscriber.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake: *** [Makefile:146: all] Error 2
